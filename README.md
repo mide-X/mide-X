@@ -7,7 +7,8 @@
 <!--- The Thanos of Code because: 'Data Structures and Algorithms', 'Data Science', 'Electronics', 'Web Development', 'Cloud Computing and Server Management' and 'Cyber Security'
 --->
 <h3> Languages are: C/C++, Python, Javascript(React and Node JS), SQL: (MySQL, PostgreSQL) </h3>
-
+anguages and Tools:
+bash html5 css3 sass bootstrap javascript babel typescript webpack react redux jest reactnative redis heroku firebase nodejs express graphql sketch figma c++ c python
 <!---
 mide-X/mide-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
