@@ -8,6 +8,8 @@
 --->
 <h3> Languages are: C/C++, Python, Javascript(React and Node JS), SQL: (MySQL, PostgreSQL) </h3>
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?mide-X=Your_GitHub_Username&show_icons=true)
+
 <!---
 mide-X/mide-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
